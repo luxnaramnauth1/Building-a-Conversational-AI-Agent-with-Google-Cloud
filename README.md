@@ -1,4 +1,3 @@
-# Building-a-Conversational-AI-Agent-with-Google-Cloud
 # ✈️ Flight Booker — Conversational AI Agent (Google Cloud)
 
 A conversational AI agent built on **Google Cloud's Conversational Agents** platform that guides a user end-to-end through booking a flight ticket — from intent detection, to structured data collection, to a final booking confirmation.
